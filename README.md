@@ -49,6 +49,13 @@ This project, will classify messages sent during a disaster. By classifying thes
 3. Go to http://0.0.0.0:3001/
 
 
+# Credits
+
+I have successfully completed this project, under the udacity nanodegree program, data science, below is the link to their website:
+https://www.udacity.com/
+
+In this project, Disaster Response Pipeline, the dataset is provided by Figure Eight, link to their website is given below:
+https://appen.com/
 
 
 
