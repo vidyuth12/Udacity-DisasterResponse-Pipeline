@@ -16,7 +16,9 @@ The motivation for doing this project was primarily an interest in undertaking a
 - pickle
 
 # Project Description:
-This project, will classify messages sent during a disaster. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency. This project involves building a Machine learning and etl pipeline, which will run in a locally hosted web app, built using flask. The dataset used in this project is provided by "Figure Eight", the link to their website is : https://appen.com/
+In this project, we will build a web app to classify messages that are sent during disasters, using machine learning. There are 36 pre-defined categories, and examples of these categories include  Medical Help, Search And Rescue, etc. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency. This project will involve the building of a basic ETL and Machine Learning pipeline to facilitate the task. This is also a multi-label classification task, since a message can belong to one or more categories. We will be working with a data set provided by Figure Eight containing real messages that were sent during disaster events.
+
+Finally, this project contains a web app where you can input a message and get classification results.
 
 ![uss3](https://user-images.githubusercontent.com/72887048/125740623-2af6f107-26ae-4b53-bf9e-2508839583cb.png)
 
