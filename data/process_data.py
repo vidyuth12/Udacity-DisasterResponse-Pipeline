@@ -5,6 +5,15 @@ from sqlalchemy import create_engine
 
 
 def load_data(messages_filepath, categories_filepath):
+    '''
+    Load Data From CSV Files
+    
+    Args:
+        messages_filepath : Path to messages file
+        categories_filepath : Path to categories file
+    Returns:
+        df : DataFrame after merging both messages ans categories file
+    '''
     # load dataset
     categories = pd.read_csv(categories_filepath)
     messages = pd.read_csv(messages_filepath)
