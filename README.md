@@ -18,6 +18,10 @@ The motivation for doing this project was primarily an interest in undertaking a
 # Project Description:
 This project, will classify messages sent during a disaster. By classifying these messages, we can allow these messages to be sent to the appropriate disaster relief agency. This project involves building a Machine learning and etl pipeline, which will run in a locally hosted web app, built using flask. The dataset used in this project is provided by "Figure Eight", the link to their website is : https://appen.com/
 
+![example of message classification(ss)](https://user-images.githubusercontent.com/72887048/125740413-a648d452-9aeb-4c77-9c27-67402a16a5d9.png)
+
+
+
 # File description:
 1) app:
    - template
